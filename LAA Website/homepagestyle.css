@@ -1,0 +1,133 @@
+i{
+  font-size: 2rem;
+}
+
+.links{
+  text-align: right;
+}
+
+.title{
+  background-color: #EEEEEE;
+  padding: 0 0;
+  margin: 0 0;
+  height: 300px;
+  background-size: contain;
+}
+
+.logo{
+  padding: 0 0;
+  margin: 0 0;
+}
+
+.w3-container,.w3-panel{
+  padding: 0 0;
+}
+
+div{
+  padding: 0 0;
+  margin: 0 0;
+}
+/*
+.letter{
+  font-size: 6rem;
+  color: white;
+  text-shadow:      0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B,
+  0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B,
+  0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B,
+  0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B,
+  0 0 0.4rem #7DA87B;
+}
+
+h1{
+  color: #F5F5C6;
+  font-size: 3rem;
+  text-transform: uppercase;
+  letter-spacing: 0.4rem;
+  text-shadow:      0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B,
+  0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B,
+  0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B,
+  0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B, 0 0 0.4rem #7DA87B,
+  0 0 0.4rem #7DA87B;
+} */
+
+.divider{
+  background-color: #326765;
+  height: 2rem;
+}
+
+.body{
+  background-color: #27253D;
+  color: #F5F5C6;
+  font-size: 1.2rem;
+  font-weight: 500;
+  letter-spacing: 2px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.body p{
+  text-align: justify;
+  padding: 4rem 3rem 0;
+}
+
+.book-btn{
+  color: #27253D;
+  font-weight: bold;
+  border-width: 0.3rem;
+  margin: 0 3rem 4rem;
+}
+
+.carousel{
+  height: 36rem;
+  position: relative;
+  color: #27253D;
+}
+
+img{
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+
+.carousel-inner{
+  background-color: #1dad52;
+  padding-bottom: 50px;
+  padding-top: 40px;
+  text-align: center;
+}
+
+
+.carouselimg{
+  width: 10em;
+  padding: 1em;
+}
+
+q{
+  font-size: 1em;
+}
+
+.carousel-indicators{
+  padding-top: 7em;
+}
+
+.footer{
+  background-color: #326765;
+  color: #EEEEEE;
+  font-size: 0.8rem;
+  letter-spacing: 0.7px;
+  line-height: 2rem;
+}
+
+.staff-btn{
+  color: #326765;
+  letter-spacing: 0.7px;
+  background-color: #F5F5C6;
+  font-size: 0.8rem;
+  padding: 0.2rem 0.4rem;
+  display: inline-block;
+  position: sticky;
+
+}
+
+.picture{
+  background-color: #27253D;
+}
